@@ -9,7 +9,7 @@ All the compilation instructions are in the notebook, as well as comments made t
 
 ---
 
-This project was made possible by:
+This project was made by:
 
 | Name | UP |
 |-|-|
